@@ -1,1 +1,1 @@
-# Prototype-of-Habit-Tracke-app
+# Prototyp aplikacji typu tracker habit w środowisku React
