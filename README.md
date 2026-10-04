@@ -1,2 +1,2 @@
 # Prototyp aplikacji typu tracker habit w środowisku React
-Poprawiony i ulwprzony projekt z technikum.
+Poprawiony i uleprzony projekt z technikum.
